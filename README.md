@@ -7,7 +7,7 @@ I'm a Computer Science student at Alamein International University (AIU), passio
 - 🛠 Building offline-first POS systems and web directories.
 - 🎓 Constantly learning—recently diving deeper into digital logic design and hardware simulation.
 - ⚡ Fun fact: I relate way too many coding concepts to Dragon Ball.
-- Goals: Becoming a skilled programmer 
+- Goals: Becoming a skilled programmer.
 
 ### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
