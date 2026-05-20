@@ -5,7 +5,7 @@ I'm a Computer Science student at Alamein International University (AIU), passio
 ### 🚀 About Me
 - 💻 Currently focusing on full-stack web development (Frontend & Backend).
 - 🛠 Building offline-first POS systems and web directories.
-- 🎓 Constantly learning—recently diving deeper into digital logic design and hardware simulation.
+- 🎓 Constantly learning, recently diving deeper into digital logic design and hardware simulation.
 - ⚡ Fun fact: I relate way too many coding concepts to Dragon Ball.
 - Goals: Becoming a skilled programmer.
 
